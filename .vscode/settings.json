@@ -1,0 +1,13 @@
+{
+  "material-icon-theme.folders.associations": {
+    "_components": "Components",
+    "_mocks": "Mock",
+    "_store": "Shared",
+    "_types": "Typescript",
+    "_utils": "Utils",
+    "(routes)": "Routes",
+    "_api": "Api",
+    "_lib": "Lib",
+    "_model": "Database"
+  }
+}
